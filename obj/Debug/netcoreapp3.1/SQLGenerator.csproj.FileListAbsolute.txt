@@ -1,0 +1,13 @@
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.exe
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.deps.json
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.runtimeconfig.json
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.runtimeconfig.dev.json
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.dll
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\bin\Debug\netcoreapp3.1\SQLGenerator.pdb
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.csprojAssemblyReference.cache
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.AssemblyInfoInputs.cache
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.AssemblyInfo.cs
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.csproj.CoreCompileInputs.cache
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.dll
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.pdb
+C:\plushogskolan\Databaser med SQL\SQLGenerator\SQLGenerator\obj\Debug\netcoreapp3.1\SQLGenerator.genruntimeconfig.cache
